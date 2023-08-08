@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cft_sorter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cft_sorter_jar</output-path>
+    <root id="archive" name="cft_sorter.jar">
+      <element id="module-output" name="cft_sorter" />
+    </root>
+  </artifact>
+</component>

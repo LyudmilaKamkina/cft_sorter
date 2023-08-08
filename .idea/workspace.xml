@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cft_sorter:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e42012f2-b376-401b-b38f-b319d270c53b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cft_sorter_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cft_sorter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/THIRDPARTYLICENSEREADME-JAVAFX.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/THIRDPARTYLICENSEREADME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/Welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/accessibility.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/amd64/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/calendars.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/charsets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/cmm/CIEXYZ.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/cmm/GRAY.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/cmm/LINEAR_RGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/cmm/PYCC.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/cmm/sRGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/content-types.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/currency.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/ffjcext.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_ja.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_ko.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_pt_BR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_sv.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_zh_HK.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/messages_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/splash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/splash@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/splash_11-lic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/deploy/splash_11@2x-lic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/access-bridge-64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/cldrdata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/dnsns.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/jaccess.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/jfxrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/localedata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/nashorn.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/sunec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/sunjce_provider.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/sunmscapi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/sunpkcs11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/ext/zipfs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/flavormap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaBrightDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaBrightDemiItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaBrightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaBrightRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaSansDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaTypewriterBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/fonts/LucidaTypewriterRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/hijrah-config-umalqura.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/cursors.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/invalid32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/win32_CopyDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/win32_CopyNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/win32_LinkDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/win32_LinkNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/win32_MoveDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/images/cursors/win32_MoveNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/javaws.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jce.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jfr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jfxswt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jsse.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/jvm.hprof.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/management-agent.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/management/snmp.acl.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/resources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/blacklist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/blacklisted.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/javaws.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/policy/limited/US_export_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/policy/limited/local_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/policy/unlimited/US_export_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/policy/unlimited/local_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/security/trusted.libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/lib/tzmappings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/JRE/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/file.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/inInts1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/inInts2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/inStrings1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/inStrings2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/inStrings3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorter_app/sorter.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inInts1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inInts2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inStrings1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inStrings2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inStrings3.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TgdmAPiY3uQUffu8hBnRbnhjyX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="cft_sorter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42012f2-b376-401b-b38f-b319d270c53b" name="Changes" comment="" />
+      <created>1691468817597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691468817597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
